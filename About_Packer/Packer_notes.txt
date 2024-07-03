@@ -1,0 +1,4 @@
+check below links
+https://github.com/illinoistech-itm/jhajek/tree/531243e873bb971ba3ec003e24ad9402626937d5/itmt-430/tooling-assignment-packer
+
+https://github.com/illinoistech-itm/jhajek/tree/master/itmt-430/example-code/advanced-tooling-examples/ubuntu_22043_vanilla
