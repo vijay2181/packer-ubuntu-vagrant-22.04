@@ -60,3 +60,9 @@ Please check on the logic behind communicator setting "pause_before_connecting".
 That setting actually does still try to connect ONCE and then waits,
 instead of waiting for the specified duration and then and only then trying to connect. Thanks!
 ```
+
+```
+cd ubuntu_22043
+packer init .
+packer build .
+```
