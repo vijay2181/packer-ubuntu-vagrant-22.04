@@ -13,7 +13,8 @@ Vagrant 2.4.1
 Previous SSH Issue:
 -------------------
 We’re using the new AutoInstall method for Ubuntu 20.04.
-Previous versions use debian-installer preseeding, but that method didn’t immediately work with the new ISO.
+Previous versions use debian-installer preseeding, but that method didn’t
+immediately work with the new ISO.
 Subiquity installer, which is the Ubuntu server’s new automated installer
 
 Subiquity is the Ubuntu server’s new automated installer, which was introduced in 18.04.
