@@ -1,1 +1,1 @@
-# packer-ubuntu-vagrant-22.04-
+# packer-ubuntu-vagrant-22.04
