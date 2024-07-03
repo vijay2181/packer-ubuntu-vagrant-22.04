@@ -14,7 +14,7 @@ Clues on how to hack around the ssh server limitation:
 ## Command to Run
 
 ```bash
-
+packer init .
 packer build .
 ```
 
