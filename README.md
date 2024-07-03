@@ -65,4 +65,9 @@ instead of waiting for the specified duration and then and only then trying to c
 cd ubuntu_22043
 packer init .
 packer build .
+
+or
+
+# With optional runtime variables, values default to false and 2048
+packer build -var 'headless_build=true' -var 'memory_amount=8192' .
 ```
