@@ -70,4 +70,8 @@ or
 
 # With optional runtime variables, values default to false and 2048
 packer build -var 'headless_build=true' -var 'memory_amount=8192' .
+
+vagrant box add --name virtualbox-ubuntu2204 file:///D:/PACKER/UBUNTU-PACKER-22.04/build/ubuntu-22043-server-20240703060231.box
+vagrant up
+vagrant ssh
 ```
